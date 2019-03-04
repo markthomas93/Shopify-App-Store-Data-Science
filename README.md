@@ -5,6 +5,7 @@ Data on Shopify App Stores, Ratings, and Reviews from Kaggle used to generate ex
 The objective of this data science project is to take the data relating to the Shopify App Store and determine why certain applications are the most/least popular based on category, features, ratings, and reviews and what makes them the most/least successful. My goal from this is to develop my skills with pandas, NumPy and matplotlib by analysing the data, and creating graphs to visualize the data.
 
 ## Exploratory Data Analysis Questions (EDA)
+A data map was created using the CSV files that are under data to understand the relationships between each set of data and how to connect them. This is created in a powerpoint; the remaining slides are used to describe the information that is being presented in each of the different columns. 
 #### Categories Data:
 1. How many categories of apps are there? How many apps per categories (pie graph)
 2. How many different features are there and what are the main features of apps in certain categories? (Benefits)
